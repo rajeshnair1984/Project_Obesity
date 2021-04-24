@@ -1,0 +1,51 @@
+state,state code,alpha code,prevalance of inactivity,meets cdc requirement (%),adolescents physically active (%)
+alabama,1,AL,31.0,17.6,23.2
+alaska,2,AK,20.3,25.6,17.9
+arizona,4,AZ,23.7,25.5,22.0
+arkansas,5,AR,32.5,19.3,22.7
+california,6,CA,20.4,22.6,20.5
+colorado,8,CO,17.3,27.4,25.4
+connecticut,9,CT,22.7,26.1,23.2
+delaware,10,DE,28.4,23.8,NaN
+florida,12,FL,28.0,27.0,22.7
+georgia,13,GA,28.5,24.1,24.0
+hawaii,15,HI,21.6,24.8,17.1
+idaho,16,ID,21.5,21.7,22.2
+illinois,17,IL,24.3,23.4,26.0
+indiana,18,IN,28.3,21.1,NaN
+iowa,19,IA,24.2,20.0,25.7
+kansas,20,KS,25.0,20.8,26.5
+kentucky,21,KY,32.2,15.3,19.0
+louisiana,22,LA,30.9,19.7,21.0
+maine,23,ME,23.2,20.2,20.4
+maryland,24,MD,23.9,24.0,19.4
+massachusetts,25,MA,23.3,22.2,21.7
+michigan,26,MI,25.1,23.3,21.8
+minnesota,27,MN,21.2,25.5,NaN
+mississippi,28,MS,33.0,15.7,23.4
+missouri,29,MO,26.8,17.1,25.3
+montana,30,MT,22.5,28.3,25.3
+nebraska,31,NE,24.2,20.9,27.9
+nevada,32,NV,25.6,20.0,21.7
+new hampshire,33,NH,21.8,26.4,22.5
+new jersey,34,NJ,28.7,NaN,22.7
+new mexico,35,NM,22.3,25.7,26.8
+new york,36,NY,26.6,24.1,19.2
+north carolina,37,NC,24.7,21.6,19.9
+north dakota,38,ND,24.6,20.1,25.2
+ohio,39,OH,27.0,20.9,23.5
+oklahoma,40,OK,30.2,15.6,29.2
+oregon,41,OR,19.2,24.9,NaN
+pennsylvania,42,PA,24.8,21.8,25.4
+rhode island,44,RI,25.9,24.1,21.1
+south carolina,45,SC,27.2,23.0,19.5
+south dakota,46,SD,22.3,21.8,29.7
+tennessee,47,TN,30.0,21.8,21.6
+texas,48,TX,27.9,24.3,22.9
+utah,49,UT,18.6,24.9,21.0
+vermont,50,VT,20.5,28.5,22.1
+virginia,51,VA,24.0,22.7,22.0
+washington,53,WA,18.3,25.9,NaN
+west virginia,54,WV,29.8,17.1,26.3
+wisconsin,55,WI,21.4,24.7,21.5
+wyoming,56,WY,24.1,24.5,NaN
