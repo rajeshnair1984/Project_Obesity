@@ -7,22 +7,37 @@ Human’s obsession with health is nothing new. One unhealthy trend is on the ri
 </p>
 
 ## Contributors:
+
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AminSundrani"><img src="https://avatars.githubusercontent.com/u/80196469?v=4" width="100px;" alt=""/><br /><sub><b>Amin Ali</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/foofx88"><img src="https://avatars.githubusercontent.com/u/78995824?v=4" width="100px;" alt=""/><br /><sub><b>FangXuan Foo</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/knarisara"><img src="https://avatars.githubusercontent.com/u/49220329?v=4" width="100px;" alt=""/><br /><sub><b>Narisara Kantanon</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/rajeshnair1984"><img src="https://avatars.githubusercontent.com/u/77108751?v=4" width="100px;" alt=""/><br /><sub><b>Rajesh Nair</b></sub></a><br /></td>
-<table />
+    <td align="center"><a href="https://github.com/AminSundrani"><img src="https://avatars.githubusercontent.com/u/80196469?v=4" width="100px;" alt=""/><br /><b>Amin Ali</b></a></td>
+    <td align="center"><a href="https://github.com/foofx88"><img src="https://avatars.githubusercontent.com/u/78995824?v=4" width="100px;" alt=""/><br /><b>FangXuan Foo</b></a><br /></td>
+    <td align="center"><a href="https://github.com/knarisara"><img src="https://avatars.githubusercontent.com/u/49220329?v=4" width="100px;" alt=""/><br /><b>Narisara Kantanon</b></a><br /></td>
+    <td align="center"><a href="https://github.com/rajeshnair1984"><img src="https://avatars.githubusercontent.com/u/77108751?v=4" width="100px;" alt=""/><br /><b>Rajesh Nair</b></a><br /></td> 
+  </tr>
+  <tr><td align="left">Contributions:</td>
+  <td colspan="3">Everyone - Data Wrangling and Data Cleaning, presentation</td></tr> 
 
-## Contributions:
-<ul>
-  <li>Everyone - Data Wrangling and Data Cleaning, presentation</li>
-  <li>Amin Ali – Obtained Fast Food raw data, Fast Food Questions</li>
-  <li>Fang Xuan Foo – Physical Activities Question, States Coordinantes, polishing readme.md file</li>
-  <li>Narisara Kantanong – Age Group Question</li>
-  <li>Rajesh Nair – Walkability Questions</li>
-</ul>
+<td align="left"> <! --Amin Ali's contributions -->
+      <ul align="left">
+      <li>Obtained Fast Food raw data</li> 
+      <li>Fast Food Questions</li>
+      </ul></td>
+<td align="left"> <! --FX Foo's contributions -->     
+      <ul align="left">
+      <li>Physical Activeness Question</li> 
+      <li>Polishing readme.md file</li>
+      </ul></td>
+<td align="center"> <! --Narisara's contributions -->      
+      <ul align="left">
+      <li>Age Group Question</li>
+      </ul></td>
+ <td align="center"> <! --Rajesh's contributions -->    
+      <ul align="left">
+      <li>Walkability Questions</li>
+      </ul></td>
+  </tr>
+<table />
 
 ## Project Introduction
 What classifies someone as Obese? It is when an individual with a Body Mass Index (BMI) of over 30.  <a href="https://www.nhs.uk/conditions/obesity/diagnosis/"><sub>[2]<sub/><a/> The issue is complex, resulting from a combination of causes and individual factors such as behavior and genetics. In this project, we have gathered data from various sources to identify the strength of the relationship between obesity and it’s contributing factors. Hence, we have chosen to research on fast food restaurants availability, public transport availability, physical activeness, and general public’s age group in the 50 states of United States of America.
