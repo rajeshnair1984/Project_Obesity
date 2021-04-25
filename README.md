@@ -1,7 +1,5 @@
-# Project_Obesity
+# Obesity, Obesity and Obesity - Tackling Obesity in 'Merica 
 <img src="https://www.news-medical.net/image.axd?picture=2020%2F8%2Fshutterstock_348926726.jpg" alt="man belly measured" width="300" height="180" align="right">
-
-Obesity, Obesity and Obesity - Tackling Obesity in 'Merica 
 
 <br>
 <p style="text-align:left;">
