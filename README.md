@@ -14,7 +14,7 @@ Human’s obsession with health is nothing new. One unhealthy trend is on the ri
     <td align="center"><a href="https://github.com/AminSundrani"><img src="https://avatars.githubusercontent.com/u/80196469?v=4" width="100px;" alt=""/><br /><sub><b>Amin Ali</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/foofx88"><img src="https://avatars.githubusercontent.com/u/78995824?v=4" width="100px;" alt=""/><br /><sub><b>FangXuan Foo</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/knarisara"><img src="https://avatars.githubusercontent.com/u/49220329?v=4" width="100px;" alt=""/><br /><sub><b>Narisara Kantanon</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/rajeshnair1984"><img src="https://avatars.githubusercontent.com/u/77108751?v=4" width="100px;" alt=""/><br /><sub><b>Narisara Kantanon</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/rajeshnair1984"><img src="https://avatars.githubusercontent.com/u/77108751?v=4" width="100px;" alt=""/><br /><sub><b>Rajesh Nair</b></sub></a><br /></td>
 <table />
 
 ## Contributions:
