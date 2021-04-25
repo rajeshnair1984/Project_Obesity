@@ -34,8 +34,8 @@ What classifies someone as Obese? It is when an individual with a Body Mass Inde
 <li>Dataset Time to be 2019</li>
 <li>All analysis and data to contain data of all the 50 states in USA, not including Federal District (District of Columbia) and Territories (American Samoa, Guam, Northern Mariana Islands, Puerto Rico, US Virgin Islands) </li>
 <li>Average of Walkable distance - Public transport (Get total for each state) </li>
-<li>Fast food -Include all restaurants in Number of restaurants per state (Heat Map number of Restaurant vs Obesity) 
-Top 5 Fast-food restaurants according to <sub><a href="https://www.eatthis.com/most-popular-fast-food-chains/">Eatthis</a></sub>- McDonald's, Starbucks, Chick-fil-A, Taco Bell, Burger King
+<li>Fast food -Include all restaurants in Number of restaurants per state (Heat Map number of Restaurant vs Obesity) <br> 
+Top 5 Fast-food restaurants according to <sub><a href="https://www.eatthis.com/most-popular-fast-food-chains/">Eatthis</a></sub>- McDonald's, Starbucks, Chick-fil-A, Taco Bell, Burger King <br>
 Count restaurants for each states, use the dot size as the heat map. </li>
 <li>Age group - Children and Teens (Ages 2 - 19 years) Adults - 20 Over</li> 
 <li>Physical activity facilities to focus on Gyms, Physical activeness (Meeting CDC requirements -Achieving at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week) </li>
