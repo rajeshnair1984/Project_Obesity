@@ -1,0 +1,53 @@
+Edition,Report Type,Measure Name,State Name,Rank,Value,Score,Lower CI,Upper CI,Source,Source Year
+2019,2019 Annual,Obesity,Alabama,45.0,36.2,1.38,37.9,34.6,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Alaska,15.0,29.5,-0.37,32.1,26.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Arizona,15.0,29.5,-0.37,31.2,27.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Arkansas,48.0,37.1,1.62,39.1,35.1,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,California,5.0,25.8,-1.33,26.9,24.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Colorado,1.0,22.9,-2.0,24.0,21.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Connecticut,7.0,27.4,-0.91,28.6,26.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Delaware,33.0,33.5,0.68,35.3,31.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Florida,24.0,30.7,-0.05,32.2,29.1,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Georgia,30.0,32.5,0.42,33.7,31.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Hawaii,2.0,24.9,-1.57,26.3,23.6,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Idaho,12.0,28.4,-0.65,30.4,26.3,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Illinois,27.0,31.8,0.24,33.3,30.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Indiana,35.0,34.1,0.84,35.5,32.6,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Iowa,44.0,35.3,1.15,36.5,34.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Kansas,38.0,34.4,0.91,35.6,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Kentucky,46.0,36.6,1.49,38.4,34.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Louisiana,47.0,36.8,1.54,38.6,34.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Maine,23.0,30.4,-0.13,31.8,28.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Maryland,25.0,30.9,0.0,32.1,29.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Massachusetts,4.0,25.7,-1.36,27.1,24.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Michigan,31.0,33.0,0.55,34.2,31.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Minnesota,20.0,30.1,-0.21,30.9,29.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Mississippi,49.0,39.5,2.0,41.2,37.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Missouri,42.0,35.0,1.07,36.8,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Montana,6.0,26.9,-1.04,28.5,25.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Nebraska,35.0,34.1,0.84,35.3,32.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Nevada,15.0,29.5,-0.37,31.9,27.1,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,New Hampshire,18.0,29.6,-0.34,31.4,27.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,New Jersey,3.0,25.6,-1.38,28.1,23.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,New Mexico,29.0,32.3,0.37,34.0,30.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,New York,9.0,27.6,-0.86,28.5,26.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,North Carolina,31.0,33.0,0.55,34.7,31.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,North Dakota,43.0,35.1,1.1,37.0,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Ohio,34.0,34.0,0.81,35.3,32.7,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Oklahoma,40.0,34.8,1.02,36.5,33.1,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Oregon,19.0,29.9,-0.26,31.4,28.4,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Pennsylvania,25.0,30.9,0.0,32.5,29.4,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Rhode Island,10.0,27.7,-0.84,29.5,26.0,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,South Carolina,37.0,34.3,0.89,35.6,33.0,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,South Dakota,20.0,30.1,-0.21,32.1,28.0,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Tennessee,38.0,34.4,0.91,36.3,32.5,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Texas,40.0,34.8,1.02,36.8,32.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Utah,10.0,27.7,-0.84,28.9,26.6,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Vermont,8.0,27.5,-0.89,29.2,25.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Virginia,22.0,30.3,-0.16,31.6,29.1,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Washington,13.0,28.7,-0.57,29.7,27.6,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,West Virginia,49.0,39.5,2.0,41.3,37.8,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Wisconsin,28.0,32.0,0.29,33.8,30.2,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,Wyoming,14.0,29.0,-0.5,30.8,27.3,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,District of Columbia,,24.7,,26.5,22.9,"CDC, Behavioral Risk Factor Surveillance System",2018
+2019,2019 Annual,Obesity,United States,,30.9,,,,"CDC, Behavioral Risk Factor Surveillance System",2018
