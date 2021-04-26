@@ -4,6 +4,7 @@
 #input data with keyword
 #csv file will then be generated into data_sources folder
 def get_data(keyword):
+    import pandas as pd
     obesity_rawdata = pd.read_csv("data_sources/2019-Annual.csv")
     obtained_df = (obesity_rawdata.loc[(obesity_rawdata['Measure Name'] == keyword)])
     obtained_df.to_csv(f'data_sources\obtained_data_{keyword}.csv',index = False, header=True)
