@@ -1,51 +1,51 @@
-State,State Code,alpha code,total gyms,per 100K residents (%),prevalance of inactivity,meets cdc requirement (%),adolescents physically active (%),Edition,Report Type,Measure Name,Rank,Obesity,Score,Lower CI,Upper CI,Source,Source Year
-Alabama,1,AL,385,7.9,31.0,17.6,23.2,2019,2019 Annual,Obesity,45.0,36.2,1.38,37.9,34.6,"CDC, Behavioral Risk Factor Surveillance System",2018
-Alaska,2,AK,90,12.2,20.3,25.6,17.9,2019,2019 Annual,Obesity,15.0,29.5,-0.37,32.1,26.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Arizona,4,AZ,318,4.5,23.7,25.5,22.0,2019,2019 Annual,Obesity,15.0,29.5,-0.37,31.2,27.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-Arkansas,5,AR,134,4.4,32.5,19.3,22.7,2019,2019 Annual,Obesity,48.0,37.1,1.62,39.1,35.1,"CDC, Behavioral Risk Factor Surveillance System",2018
-California,6,CA,3365,8.5,20.4,22.6,20.5,2019,2019 Annual,Obesity,5.0,25.8,-1.33,26.9,24.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-Colorado,8,CO,551,9.7,17.3,27.4,25.4,2019,2019 Annual,Obesity,1.0,22.9,-2.0,24.0,21.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Connecticut,9,CT,575,16.0,22.7,26.1,23.2,2019,2019 Annual,Obesity,7.0,27.4,-0.91,28.6,26.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Delaware,10,DE,142,14.6,28.4,23.8,,2019,2019 Annual,Obesity,33.0,33.5,0.68,35.3,31.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-Florida,12,FL,2463,11.6,28.0,27.0,22.7,2019,2019 Annual,Obesity,24.0,30.7,-0.05,32.2,29.1,"CDC, Behavioral Risk Factor Surveillance System",2018
-Georgia,13,GA,115,9.6,28.5,24.1,24.0,2019,2019 Annual,Obesity,30.0,32.5,0.42,33.7,31.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Hawaii,15,HI,87,6.1,21.6,24.8,17.1,2019,2019 Annual,Obesity,2.0,24.9,-1.57,26.3,23.6,"CDC, Behavioral Risk Factor Surveillance System",2018
-Idaho,16,ID,166,9.5,21.5,21.7,22.2,2019,2019 Annual,Obesity,12.0,28.4,-0.65,30.4,26.3,"CDC, Behavioral Risk Factor Surveillance System",2018
-Illinois,17,IL,211,15.7,24.3,23.4,26.0,2019,2019 Annual,Obesity,27.0,31.8,0.24,33.3,30.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Indiana,18,IN,726,10.8,28.3,21.1,,2019,2019 Annual,Obesity,35.0,34.1,0.84,35.5,32.6,"CDC, Behavioral Risk Factor Surveillance System",2018
-Iowa,19,IA,397,12.6,24.2,20.0,25.7,2019,2019 Annual,Obesity,44.0,35.3,1.15,36.5,34.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Kansas,20,KS,298,10.2,25.0,20.8,26.5,2019,2019 Annual,Obesity,38.0,34.4,0.91,35.6,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Kentucky,21,KY,421,9.4,32.2,15.3,19.0,2019,2019 Annual,Obesity,46.0,36.6,1.49,38.4,34.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Louisiana,22,LA,418,8.9,30.9,19.7,21.0,2019,2019 Annual,Obesity,47.0,36.8,1.54,38.6,34.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Maine,23,ME,199,14.8,23.2,20.2,20.4,2019,2019 Annual,Obesity,23.0,30.4,-0.13,31.8,28.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Maryland,24,MD,961,15.8,23.9,24.0,19.4,2019,2019 Annual,Obesity,25.0,30.9,0.0,32.1,29.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-Massachusetts,25,MA,1487,21.6,23.3,22.2,21.7,2019,2019 Annual,Obesity,4.0,25.7,-1.36,27.1,24.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Michigan,26,MI,1362,13.6,25.1,23.3,21.8,2019,2019 Annual,Obesity,31.0,33.0,0.55,34.2,31.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-Minnesota,27,MN,127,18.2,21.2,25.5,,2019,2019 Annual,Obesity,20.0,30.1,-0.21,30.9,29.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Mississippi,28,MS,285,9.6,33.0,15.7,23.4,2019,2019 Annual,Obesity,49.0,39.5,2.0,41.2,37.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-Missouri,29,MO,720,11.7,26.8,17.1,25.3,2019,2019 Annual,Obesity,42.0,35.0,1.07,36.8,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Montana,30,MT,145,13.6,22.5,28.3,25.3,2019,2019 Annual,Obesity,6.0,26.9,-1.04,28.5,25.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Nebraska,31,NE,157,8.1,24.2,20.9,27.9,2019,2019 Annual,Obesity,35.0,34.1,0.84,35.3,32.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Nevada,32,NV,223,7.3,25.6,20.0,21.7,2019,2019 Annual,Obesity,15.0,29.5,-0.37,31.9,27.1,"CDC, Behavioral Risk Factor Surveillance System",2018
-New Hampshire,33,NH,240,17.8,21.8,26.4,22.5,2019,2019 Annual,Obesity,18.0,29.6,-0.34,31.4,27.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-New Jersey,34,NJ,1454,16.1,28.7,,22.7,2019,2019 Annual,Obesity,3.0,25.6,-1.38,28.1,23.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-New Mexico,35,NM,142,6.8,22.3,25.7,26.8,2019,2019 Annual,Obesity,29.0,32.3,0.37,34.0,30.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-New York,36,NY,2759,13.9,26.6,24.1,19.2,2019,2019 Annual,Obesity,9.0,27.6,-0.86,28.5,26.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-North Carolina,37,NC,260,19.8,24.7,21.6,19.9,2019,2019 Annual,Obesity,31.0,33.0,0.55,34.7,31.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-North Dakota,38,ND,91,12.0,24.6,20.1,25.2,2019,2019 Annual,Obesity,43.0,35.1,1.1,37.0,33.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Ohio,39,OH,1322,11.3,27.0,20.9,23.5,2019,2019 Annual,Obesity,34.0,34.0,0.81,35.3,32.7,"CDC, Behavioral Risk Factor Surveillance System",2018
-Oklahoma,40,OK,283,7.2,30.2,15.6,29.2,2019,2019 Annual,Obesity,40.0,34.8,1.02,36.5,33.1,"CDC, Behavioral Risk Factor Surveillance System",2018
-Oregon,41,OR,530,12.6,19.2,24.9,,2019,2019 Annual,Obesity,19.0,29.9,-0.26,31.4,28.4,"CDC, Behavioral Risk Factor Surveillance System",2018
-Pennsylvania,42,PA,1568,12.2,24.8,21.8,25.4,2019,2019 Annual,Obesity,25.0,30.9,0.0,32.5,29.4,"CDC, Behavioral Risk Factor Surveillance System",2018
-Rhode Island,44,RI,219,20.6,25.9,24.1,21.1,2019,2019 Annual,Obesity,10.0,27.7,-0.84,29.5,26.0,"CDC, Behavioral Risk Factor Surveillance System",2018
-South Carolina,45,SC,509,10.0,27.2,23.0,19.5,2019,2019 Annual,Obesity,37.0,34.3,0.89,35.6,33.0,"CDC, Behavioral Risk Factor Surveillance System",2018
-South Dakota,46,SD,133,15.2,22.3,21.8,29.7,2019,2019 Annual,Obesity,20.0,30.1,-0.21,32.1,28.0,"CDC, Behavioral Risk Factor Surveillance System",2018
-Tennessee,47,TN,655,9.7,30.0,21.8,21.6,2019,2019 Annual,Obesity,38.0,34.4,0.91,36.3,32.5,"CDC, Behavioral Risk Factor Surveillance System",2018
-Texas,48,TX,1576,5.5,27.9,24.3,22.9,2019,2019 Annual,Obesity,40.0,34.8,1.02,36.8,32.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-Utah,49,UT,219,6.9,18.6,24.9,21.0,2019,2019 Annual,Obesity,10.0,27.7,-0.84,28.9,26.6,"CDC, Behavioral Risk Factor Surveillance System",2018
-Vermont,50,VT,146,23.4,20.5,28.5,22.1,2019,2019 Annual,Obesity,8.0,27.5,-0.89,29.2,25.9,"CDC, Behavioral Risk Factor Surveillance System",2018
-Virginia,51,VA,1140,13.4,24.0,22.7,22.0,2019,2019 Annual,Obesity,22.0,30.3,-0.16,31.6,29.1,"CDC, Behavioral Risk Factor Surveillance System",2018
-Washington,53,WA,1002,34.2,18.3,25.9,,2019,2019 Annual,Obesity,13.0,28.7,-0.57,29.7,27.6,"CDC, Behavioral Risk Factor Surveillance System",2018
-West Virginia,54,WV,137,7.6,29.8,17.1,26.3,2019,2019 Annual,Obesity,49.0,39.5,2.0,41.3,37.8,"CDC, Behavioral Risk Factor Surveillance System",2018
-Wisconsin,55,WI,872,15.0,21.4,24.7,21.5,2019,2019 Annual,Obesity,28.0,32.0,0.29,33.8,30.2,"CDC, Behavioral Risk Factor Surveillance System",2018
-Wyoming,56,WY,55,9.6,24.1,24.5,,2019,2019 Annual,Obesity,14.0,29.0,-0.5,30.8,27.3,"CDC, Behavioral Risk Factor Surveillance System",2018
+State,State Code,alpha code,total gyms,per 100K residents (%),prevalance of inactivity,meets cdc requirement (%),adolescents physically active (%),Edition,Rank,Obesity
+Alabama,1,AL,385,7.9,31.0,17.6,23.2,2019,45.0,36.2
+Alaska,2,AK,90,12.2,20.3,25.6,17.9,2019,15.0,29.5
+Arizona,4,AZ,318,4.5,23.7,25.5,22.0,2019,15.0,29.5
+Arkansas,5,AR,134,4.4,32.5,19.3,22.7,2019,48.0,37.1
+California,6,CA,3365,8.5,20.4,22.6,20.5,2019,5.0,25.8
+Colorado,8,CO,551,9.7,17.3,27.4,25.4,2019,1.0,22.9
+Connecticut,9,CT,575,16.0,22.7,26.1,23.2,2019,7.0,27.4
+Delaware,10,DE,142,14.6,28.4,23.8,,2019,33.0,33.5
+Florida,12,FL,2463,11.6,28.0,27.0,22.7,2019,24.0,30.7
+Georgia,13,GA,115,9.6,28.5,24.1,24.0,2019,30.0,32.5
+Hawaii,15,HI,87,6.1,21.6,24.8,17.1,2019,2.0,24.9
+Idaho,16,ID,166,9.5,21.5,21.7,22.2,2019,12.0,28.4
+Illinois,17,IL,211,15.7,24.3,23.4,26.0,2019,27.0,31.8
+Indiana,18,IN,726,10.8,28.3,21.1,,2019,35.0,34.1
+Iowa,19,IA,397,12.6,24.2,20.0,25.7,2019,44.0,35.3
+Kansas,20,KS,298,10.2,25.0,20.8,26.5,2019,38.0,34.4
+Kentucky,21,KY,421,9.4,32.2,15.3,19.0,2019,46.0,36.6
+Louisiana,22,LA,418,8.9,30.9,19.7,21.0,2019,47.0,36.8
+Maine,23,ME,199,14.8,23.2,20.2,20.4,2019,23.0,30.4
+Maryland,24,MD,961,15.8,23.9,24.0,19.4,2019,25.0,30.9
+Massachusetts,25,MA,1487,21.6,23.3,22.2,21.7,2019,4.0,25.7
+Michigan,26,MI,1362,13.6,25.1,23.3,21.8,2019,31.0,33.0
+Minnesota,27,MN,127,18.2,21.2,25.5,,2019,20.0,30.1
+Mississippi,28,MS,285,9.6,33.0,15.7,23.4,2019,49.0,39.5
+Missouri,29,MO,720,11.7,26.8,17.1,25.3,2019,42.0,35.0
+Montana,30,MT,145,13.6,22.5,28.3,25.3,2019,6.0,26.9
+Nebraska,31,NE,157,8.1,24.2,20.9,27.9,2019,35.0,34.1
+Nevada,32,NV,223,7.3,25.6,20.0,21.7,2019,15.0,29.5
+New Hampshire,33,NH,240,17.8,21.8,26.4,22.5,2019,18.0,29.6
+New Jersey,34,NJ,1454,16.1,28.7,,22.7,2019,3.0,25.6
+New Mexico,35,NM,142,6.8,22.3,25.7,26.8,2019,29.0,32.3
+New York,36,NY,2759,13.9,26.6,24.1,19.2,2019,9.0,27.6
+North Carolina,37,NC,260,19.8,24.7,21.6,19.9,2019,31.0,33.0
+North Dakota,38,ND,91,12.0,24.6,20.1,25.2,2019,43.0,35.1
+Ohio,39,OH,1322,11.3,27.0,20.9,23.5,2019,34.0,34.0
+Oklahoma,40,OK,283,7.2,30.2,15.6,29.2,2019,40.0,34.8
+Oregon,41,OR,530,12.6,19.2,24.9,,2019,19.0,29.9
+Pennsylvania,42,PA,1568,12.2,24.8,21.8,25.4,2019,25.0,30.9
+Rhode Island,44,RI,219,20.6,25.9,24.1,21.1,2019,10.0,27.7
+South Carolina,45,SC,509,10.0,27.2,23.0,19.5,2019,37.0,34.3
+South Dakota,46,SD,133,15.2,22.3,21.8,29.7,2019,20.0,30.1
+Tennessee,47,TN,655,9.7,30.0,21.8,21.6,2019,38.0,34.4
+Texas,48,TX,1576,5.5,27.9,24.3,22.9,2019,40.0,34.8
+Utah,49,UT,219,6.9,18.6,24.9,21.0,2019,10.0,27.7
+Vermont,50,VT,146,23.4,20.5,28.5,22.1,2019,8.0,27.5
+Virginia,51,VA,1140,13.4,24.0,22.7,22.0,2019,22.0,30.3
+Washington,53,WA,1002,34.2,18.3,25.9,,2019,13.0,28.7
+West Virginia,54,WV,137,7.6,29.8,17.1,26.3,2019,49.0,39.5
+Wisconsin,55,WI,872,15.0,21.4,24.7,21.5,2019,28.0,32.0
+Wyoming,56,WY,55,9.6,24.1,24.5,,2019,14.0,29.0
