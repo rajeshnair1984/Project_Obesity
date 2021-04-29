@@ -20,13 +20,12 @@ Human’s obsession with health is nothing new. One unhealthy trend is on the ri
 
 <td align="left"> <! --Amin Ali's contributions -->
       <ul align="left">
-      <li>Obtained Fast Food raw data</li> 
       <li>Fast Food Questions</li>
       </ul></td>
 <td align="left"> <! --FX Foo's contributions -->     
       <ul align="left">
       <li>Physical Activeness Question</li> 
-      <li>Polishing readme.md file</li>
+      <li>README.md file</li>
       </ul></td>
 <td align="center"> <! --Narisara's contributions -->      
       <ul align="left">
@@ -59,18 +58,18 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 2.	The more 'Top 5' fast food restaurants in a states, the higher the obesity rate
 3.	The more walkable distance to anywhere, the lower the obesity rate
 4.	How many are walking for their day-to-day need? (Location of supermarket, bus stops)
-5.	The greater number of gyms in a state, the lower the obesity rate
-6.	The higher rate of physical activeness, the lower the obesity rate
-7.	TBA
-8.	Younger generation that tends to prefer fast food would be more obese
-9.	Older generation that are more immobile tend to be more obese
+5.	The higher rate of physical activeness, the lower the obesity rate
+6.	The greater number of gyms in a state, the lower the obesity rate
+7.	Younger generation that tends to prefer fast food would be more obese
+8.	Older generation that are more immobile tend to be more obese
 
 ## Datasets used
 -	https://open.cdc.gov/apis.html
--	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
--	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
+-	https://cloud.google.com/maps-platform/
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
-
+- https://www.fitrated.com/resources/gym-by-state/
+- https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByLocation&rdRequestForwarding=Form
+- 
 
 
 
