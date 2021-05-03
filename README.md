@@ -19,8 +19,7 @@ Human’s obsession with health is nothing new. One unhealthy trend is on the ri
   <td colspan="3">Everyone - Data Wrangling and Data Cleaning, presentation</td></tr> 
 
 <td align="left"> <! --Amin Ali's contributions -->
-      <ul align="left">
-      <li>Obtained Fast Food raw data</li> 
+      <ul align="left"> 
       <li>Fast Food Questions</li>
       </ul></td>
 <td align="left"> <! --FX Foo's contributions -->     
@@ -59,18 +58,11 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 2.	Which gender prefers fast food that leads to obesity?
 3.	Is there any relation between mode of commute and obesity?
 4.	How many are walking for their day-to-day need?
-5.	The greater number of gyms in a state, the lower the obesity rate
-6.	The higher rate of physical activeness, the lower the obesity rate
+5.	The higher rate of physical activeness, the lower the obesity rate
+6.	The greater number of gyms in a state, the lower the obesity rate
 7.	What population groups are most at risk to not meet physical exercises?
 8.	Younger generation that tends to prefer fast food would be more obese
 9.	Older generation that are more immobile tend to be more obese
-
-## Datasets used
--	https://open.cdc.gov/apis.html
--	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
--	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
--	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
-- https://www.bts.gov/browse-statistical-products-and-data
 
 Analysis
 
@@ -101,3 +93,17 @@ The correlation coefficient between obesity and Walked is -0.49
 y = -1.55x + 35.7  
 In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
 between the walking and the obesity rate. 
+
+5.	The higher rate of physical activeness, the lower the obesity rate
+6.	The greater number of gyms in a state, the lower the obesity rate
+
+![a chart](Output/obese_vs_active.png)  
+As one of the causes of Obesity defined by the CDC is due to physical inactivity, there is a strong (but not perfect) negative relationship between Obesity rate and physical activeness (R= -0.73) while a positive strong relationship between Obesity rate and physical inactivity (R = 0.73). This proves that the state residents that meets the CDC's physical activeness requirements have a lower obesity rate, hence proving the hypothesis.
+![a chart](Output/obese_vs_gyms.png)
+The relationship between the Obesity Rate of a state and available Gyms per 100K state residents is a low negative (weak) correlation with the R-value of -0.34. This means despite having more gyms per 100K state residents, it has not much affect on the obesity rates in a state. An interesting observation that can support this is the data plot which has the highest % of gyms per 100K residents (Washington) still have a higher rate of Obesity compared to those with less gyms available (Colorado, Hawaii)
+## Datasets used
+-	https://open.cdc.gov/apis.html
+-	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
+-	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
+-	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
+- https://www.bts.gov/browse-statistical-products-and-data
