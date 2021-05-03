@@ -57,8 +57,8 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 ## Research questions to answer:
 1.	The more accessible the fast-food restaurant the higher the obesity rate?
 2.	Which gender prefers fast food that leads to obesity?
-3.	Does the walkable distance to public transport relates to obesity?
-4.	How many are walking for their day-to-day need? (Location of supermarket, bus stops)
+3.	Is there any relation between mode of commute and obesity?
+4.	How many are walking for their day-to-day need?
 5.	The greater number of gyms in a state, the lower the obesity rate
 6.	The higher rate of physical activeness, the lower the obesity rate
 7.	What population groups are most at risk to not meet physical exercises?
@@ -70,7 +70,34 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 -	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
 -	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
+- https://www.bts.gov/browse-statistical-products-and-data
+
+Analysis
+
+Question 3 : Is there any realtion mode of commute and besity?  
+Question 4 : How many are walking for their day-to-day need?  
+
+![a chart](project_image/commutemode.png)  
+Pie Chart show the distribution of Mode of commute.  
+87.9% of the population drive to work alone or used car pool.  
+3.1% uses public transport for work.  
+Distribution shows lack of confidence in public transport.Pie Chart show the distribution of Mode of commute.  
 
 
+![a chart](project_image/publictransportVSobesity_line.png)  
+The correlation coefficient between Obesity and Public transport is -0.43  
+y = -0.37x + 32.56  
+In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
+between the use if public transport and the obesity rate.
 
+![a chart](project_image/dorvealoneVSobesity_line.png)  
+The correlation coefficient between obesity and Drove alone is 0.68  
+y = 0.47x + -5.45  
+In the above scatter plot,it is clearly visibly that there is a strong positive correlation   
+between the use of personal vehicle and the obesity rate.
 
+![a chart](project_image/WalkedVSobesity_line.png)  
+The correlation coefficient between obesity and Walked is -0.49  
+y = -1.55x + 35.7  
+In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
+between the walking and the obesity rate. 
