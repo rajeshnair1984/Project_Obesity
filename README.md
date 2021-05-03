@@ -54,40 +54,16 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 </ul>
   
 ## Research questions to answer:
-<<<<<<< HEAD
 1.	The more accessible the fast-food restaurant the higher the obesity rate
-2.	The more 'Top 5' fast food restaurants in a states, the higher the obesity rate
+2.	The higher the population, the more the Fast food restaurants, hence higher the obesity rate
 3.	The more walkable distance to anywhere, the lower the obesity rate
 4.	How many are walking for their day-to-day need? (Location of supermarket, bus stops)
 5.	The higher rate of physical activeness, the lower the obesity rate
 6.	The greater number of gyms in a state, the lower the obesity rate
 7.	Younger generation that tends to prefer fast food would be more obese
 8.	Older generation that are more immobile tend to be more obese
-=======
-1.	The more accessible the fast-food restaurant the higher the obesity rate?
-2.	Which gender prefers fast food that leads to obesity?
-3.	Is there any relation between mode of commute and obesity?
-4.	How many are walking for their day-to-day need?
-5.	The greater number of gyms in a state, the lower the obesity rate
-6.	The higher rate of physical activeness, the lower the obesity rate
-7.	What population groups are most at risk to not meet physical exercises?
-8.	Younger generation that tends to prefer fast food would be more obese
-9.	Older generation that are more immobile tend to be more obese
->>>>>>> Newtransport
-
-## Datasets used
--	https://open.cdc.gov/apis.html
--	https://cloud.google.com/maps-platform/
--	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
-<<<<<<< HEAD
-- https://www.fitrated.com/resources/gym-by-state/
-- https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByLocation&rdRequestForwarding=Form
-- 
-=======
-- https://www.bts.gov/browse-statistical-products-and-data
 
 Analysis
->>>>>>> Newtransport
 
 Question 3 : Is there any realtion mode of commute and besity?  
 Question 4 : How many are walking for their day-to-day need?  
@@ -116,3 +92,11 @@ The correlation coefficient between obesity and Walked is -0.49
 y = -1.55x + 35.7  
 In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
 between the walking and the obesity rate. 
+
+## Datasets used
+-	https://open.cdc.gov/apis.html
+-	https://cloud.google.com/maps-platform/
+-	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
+- https://www.fitrated.com/resources/gym-by-state/
+- https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByLocation&rdRequestForwarding=Form
+- https://www.bts.gov/browse-statistical-products-and-data
