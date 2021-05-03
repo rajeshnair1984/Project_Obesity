@@ -72,5 +72,32 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
 - https://www.bts.gov/browse-statistical-products-and-data
 
+Analysis
+
+Question 3 : Is there any realtion mode of commute and besity?  
+Question 4 : How many are walking for their day-to-day need?  
+
+![a chart](project_image/commutemode.png)  
+Pie Chart show the distribution of Mode of commute.  
+87.9% of the population drive to work alone or used car pool.  
+3.1% uses public transport for work.  
+Distribution shows lack of confidence in public transport.Pie Chart show the distribution of Mode of commute.  
 
 
+![a chart](project_image/publictransportVSobesity_line.png)  
+The correlation coefficient between Obesity and Public transport is -0.43  
+y = -0.37x + 32.56  
+In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
+between the use if public transport and the obesity rate.
+
+![a chart](project_image/dorvealoneVSobesity_line.png)  
+The correlation coefficient between obesity and Drove alone is 0.68  
+y = 0.47x + -5.45  
+In the above scatter plot,it is clearly visibly that there is a strong positive correlation   
+between the use of personal vehicle and the obesity rate.
+
+![a chart](project_image/WalkedVSobesity_line.png)  
+The correlation coefficient between obesity and Walked is -0.49  
+y = -1.55x + 35.7  
+In the above scatter plot,it is clearly visibly that there is a moderate negative correlation   
+between the walking and the obesity rate. 
