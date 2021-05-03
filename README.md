@@ -57,8 +57,8 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 ## Research questions to answer:
 1.	The more accessible the fast-food restaurant the higher the obesity rate?
 2.	Which gender prefers fast food that leads to obesity?
-3.	Does the walkable distance to public transport relates to obesity?
-4.	How many are walking for their day-to-day need? (Location of supermarket, bus stops)
+3.	Is there any relation between mode of commute and obesity?
+4.	How many are walking for their day-to-day need?
 5.	The greater number of gyms in a state, the lower the obesity rate
 6.	The higher rate of physical activeness, the lower the obesity rate
 7.	What population groups are most at risk to not meet physical exercises?
@@ -70,7 +70,7 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 -	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
 -	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
-
+- https://www.bts.gov/browse-statistical-products-and-data
 
 
 
