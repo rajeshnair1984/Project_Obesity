@@ -113,6 +113,16 @@ between the walking and the obesity rate.
 As one of the causes of Obesity defined by the CDC is due to physical inactivity, there is a strong (but not perfect) negative relationship between Obesity rate and physical activeness (R= -0.73) while a positive strong relationship between Obesity rate and physical inactivity (R = 0.73). This proves that the state residents that meets the CDC's physical activeness requirements have a lower obesity rate, hence proving the hypothesis.
 ![a chart](Output/obese_vs_gyms.png)
 The relationship between the Obesity Rate of a state and available Gyms per 100K state residents is a low negative (weak) correlation with the R-value of -0.34. This means despite having more gyms per 100K state residents, it has not much affect on the obesity rates in a state. An interesting observation that can support this is the data plot which has the highest % of gyms per 100K residents (Washington) still have a higher rate of Obesity compared to those with less gyms available (Colorado, Hawaii)
+
+7.	Older generation tend to have higher rate of obesity than younger generation
+8.	The higher income, the lower obesity rate
+
+![a chart](project_image/Obesiy Data by Age groups)
+From my hyphothesis, the pie chart shows that there is no continuous trend of obesity from younger to the older generation.  As a result, my hypothesis was incorrected.  It shows a drop of obesity rate in the oldest group (age 65 an over) on that year.  However there is a significant increasing trend of obesity rate from gender in the second group (45-64 years of age).  Because obesity develops over time, this may show the highest rate in the older generation when projecting the data over a period of time.
+
+![a chart](project_image/Obesity Data by Income)
+The group with annual income higher than $75,000 has the lowest obesity rate compared to the rest of the groups.  Adult with annual income less than $25,000 a year show the highest rate of obesity at 27.7%.
+
 ## Datasets used
 -	https://open.cdc.gov/apis.html
 -	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
