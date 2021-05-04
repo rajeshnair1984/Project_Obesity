@@ -63,6 +63,19 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 7.	Older generation tend to have higher rate of obesity than younger generation
 8.	The higher income, the lower obesity rate
 
+![image](https://user-images.githubusercontent.com/80196469/117009469-5c0e5780-ad1e-11eb-93a1-c09f41cd1bb7.png)
+
+Question 1 :  The more accessible the fast-food restaurant the higher the obesity rate
+Question 2 :  The higher the population, the more the Fast food restaurants, hence higher the obesity rate
+
+![image](https://user-images.githubusercontent.com/80196469/117009041-e86c4a80-ad1d-11eb-85f5-dafcd16df069.png)
+
+The Scatter Chart Shows the positive corelation between the Fast-food Restaurants availability for every 10K Residents (Capita) in United States
+
+![image](https://user-images.githubusercontent.com/80196469/117009265-223d5100-ad1e-11eb-8112-8dcff1176ccc.png)
+
+The Scatter Chart Shows the positive corelation of 0.99 between the increase in Fast-food Restaurants vs increase in population in United States
+
 ## Preview of Analysis:
 
 Question 3 : Is there any realtion mode of commute and besity?  
@@ -105,3 +118,4 @@ The relationship between the Obesity Rate of a state and available Gyms per 100K
 -	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
 - https://www.bts.gov/browse-statistical-products-and-data
+- https://www.statista.com/topics/863/fast-food/
