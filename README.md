@@ -102,7 +102,6 @@ As one of the causes of Obesity defined by the CDC is due to physical inactivity
 The relationship between the Obesity Rate of a state and available Gyms per 100K state residents is a low negative (weak) correlation with the R-value of -0.34. This means despite having more gyms per 100K state residents, it has not much affect on the obesity rates in a state. An interesting observation that can support this is the data plot which has the highest % of gyms per 100K residents (Washington) still have a higher rate of Obesity compared to those with less gyms available (Colorado, Hawaii)
 ## Datasets used
 -	https://open.cdc.gov/apis.html
--	https://cloud.google.com/maps-platform/?_ga=2.80353745.735577293.1618924935-1052635322.1618821265
 -	https://data.world/health/childhood-obesity-in-theus/workspace/file?filename=obesity_child_age.csv
 -	https://www.americashealthrankings.org/explore/annual/measure/obesity/state/ALL
 - https://www.bts.gov/browse-statistical-products-and-data
