@@ -54,8 +54,8 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 </ul>
   
 ## Research questions to answer:
-1.	The more accessible the fast-food restaurant the higher the obesity rate?
-2.	Which gender prefers fast food that leads to obesity?
+1.	The more accessible the fast-food restaurant the higher the obesity rate
+2.	The higher the population, the more the Fast food restaurants, hence higher the obesity rate
 3.	Is there any relation between mode of commute and obesity?
 4.	How many are walking for their day-to-day need?
 5.	The higher rate of physical activeness, the lower the obesity rate
