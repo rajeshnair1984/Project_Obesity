@@ -47,9 +47,8 @@ What classifies someone as Obese? It is when an individual with a Body Mass Inde
 <li>All analysis and data to contain data of all the 50 states in USA, not including Federal District (District of Columbia) and Territories (American Samoa, Guam, Northern Mariana Islands, Puerto Rico, US Virgin Islands) </li>
 <li>Average of Walkable distance - Public transport (Get total for each state) </li>
 <li>Fast food -Include all restaurants in Number of restaurants per state (Heat Map number of Restaurant vs Obesity) <br> 
-Top 5 Fast-food restaurants according to <sub><a href="https://www.eatthis.com/most-popular-fast-food-chains/">Eatthis</a></sub>- McDonald's, Starbucks, Chick-fil-A, Taco Bell, Burger King <br>
-Count restaurants for each states, use the dot size as the heat map. </li>
-<li>Age group - Children and Teens (Ages 2 - 19 years) Adults - 20 Over</li> 
+<li>Count restaurants for each states, use the dot size as the heat map. </li>
+<li>Age group (18-65+), Income groups ranging from (lower $25K to $75K or more), Ethincs groups and Gender (Male and Female)</li> 
 <li>Physical activity facilities to focus on Gyms, Physical activeness (Meeting CDC requirements -Achieving at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week) </li>
 </ul>
   
@@ -63,6 +62,9 @@ Count restaurants for each states, use the dot size as the heat map. </li>
 7.	Older generation tend to have higher rate of obesity than younger generation
 8.	The higher income, the lower obesity rate
 
+
+## Preview of Analysis:
+Heatmap of Obesity in the States
 ![image](https://user-images.githubusercontent.com/80196469/117009469-5c0e5780-ad1e-11eb-93a1-c09f41cd1bb7.png)
 
 Question 1 :  The more accessible the fast-food restaurant the higher the obesity rate
@@ -75,8 +77,6 @@ The Scatter Chart Shows the positive corelation between the Fast-food Restaurant
 ![image](https://user-images.githubusercontent.com/80196469/117009265-223d5100-ad1e-11eb-8112-8dcff1176ccc.png)
 
 The Scatter Chart Shows the positive corelation of 0.99 between the increase in Fast-food Restaurants vs increase in population in United States
-
-## Preview of Analysis:
 
 Question 3 : Is there any realtion mode of commute and besity?  
 Question 4 : How many are walking for their day-to-day need?  
