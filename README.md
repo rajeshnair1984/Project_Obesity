@@ -117,10 +117,10 @@ The relationship between the Obesity Rate of a state and available Gyms per 100K
 7.	Older generation tend to have higher rate of obesity than younger generation
 8.	The higher income, the lower obesity rate
 
-![a chart](project_image/Obesiy Data by Age groups.png)
+![a chart](project_image/Obesiy Data by Age groups.PNG)
 From my hyphothesis, the pie chart shows that there is no continuous trend of obesity from younger to the older generation.  As a result, my hypothesis was incorrected.  It shows a drop of obesity rate in the oldest group (age 65 an over) on that year.  However there is a significant increasing trend of obesity rate from gender in the second group (45-64 years of age).  Because obesity develops over time, this may show the highest rate in the older generation when projecting the data over a period of time.
 
-![a chart](project_image/Obesity Data by Income.png)
+![a chart](project_image/Obesity Data by Income.PNG)
 The group with annual income higher than $75,000 has the lowest obesity rate compared to the rest of the groups.  Adult with annual income less than $25,000 a year show the highest rate of obesity at 27.7%.
 
 ## Datasets used
